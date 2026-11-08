@@ -22,7 +22,7 @@ Synergy!
 <!-- image credit: Fauxels -->
 
 ---
-![bg right](https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg)
+![bg right](assets/arghhh.jpeg)
 Arghhh!
 
 <!-- image credit: Tim Gouw -->
@@ -31,11 +31,11 @@ Arghhh!
 # Working with the garage door up
 
 ---
-![bg](https://images.pexels.com/photos/18700799/pexels-photo-18700799.jpeg)
+![bg](assets/garage-door.jpeg)
 <!-- image credit: Roman Biernacki -->
 
 ---
-![bg](https://images.pexels.com/photos/3853200/pexels-photo-3853200.jpeg)
+![bg](assets/at-desk.jpeg)
 <!-- image credit: Andrea Piacquadio -->
 
 ---
@@ -75,7 +75,7 @@ xkcd.com/1053/
 ---
 # It might confuse people
 
-![bg left](https://images.pexels.com/photos/2440530/pexels-photo-2440530.jpeg)
+![bg left](assets/confused.jpeg)
 <!-- Image credit: Arthur Brognoli -->
 
 ---
