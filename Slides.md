@@ -6,6 +6,9 @@ class:
   - invert
   - lead
 ---
+![bg fit](assets/ADC_Title_Card.png)
+
+---
 # Hello!
 
 Andy Normington
@@ -13,72 +16,67 @@ Embedded Software + Developer Tooling
 Focusrite
 
 ---
-# What's the big idea?
-
----
-![bg left](assets/synergy.jpeg)
-Synergy!
-
-<!-- image credit: Fauxels -->
-
----
-![bg right](assets/arghhh.jpeg)
-Arghhh!
-
-<!-- image credit: Tim Gouw -->
+# Try harder and write more docs better
+and eat your greens
 
 ---
 # Working with the garage door up
 
 ---
 ![bg](assets/garage-door.jpeg)
-<!-- image credit: Roman Biernacki -->
+<!-- image credit: Roman Biernacki https://images.pexels.com/photos/18700799/pexels-photo-18700799.jpeg -->
 
 ---
 ![bg](assets/at-desk.jpeg)
-<!-- image credit: Andrea Piacquadio -->
+<!-- image credit: Andrea Piacquadio https://images.pexels.com/photos/3853200/pexels-photo-3853200.jpeg -->
+
+---
+# Working with the garage door up
 
 ---
 - show your working
 - don't wait until it's publishable
 - let people stumble upon your notebook
 
----
-
-# Why?
-Who cares about my unpolished work?
+...and keep aiming that at people, even in the age of AI
 
 ---
-* catalyse other people's ideas
-* save duplicated effort
-* feedback you didn't need to ask for
-* team docs for free
-* more shared context
+PICTURE OF ALEXANDER GRAHAM BELL - and mother / father
 
 ---
-# But...
+PICTURE OF NATIONAL GEOGRAPHIC ISSUE 1922
 
 ---
-# It's not ready!
+# Ear Phonautograph
 
 ---
-
-![bg 95%](https://miro.medium.com/v2/1*vb37xDKUHtvoSGHRIOGe_A.png)
-![bg 88%](https://miro.medium.com/v2/format:webp/1*KOVbr0RTE7l60rft2dyclg.png)
+Photos of ear phonautograph https://ingeniumcanada.org/channel/articles/reconstructing-a-lost-object-can-you-identify-this-component-in-alexander-graham
 
 ---
-# I'll look stupid!
-
-![bg right:60% 100%](https://miro.medium.com/v2/1*SZnb1QJKZe_A_NCnUl8AIA.png)
-xkcd.com/1053/
+3M
 
 ---
-# It might confuse people
+# Delia Derbyshire
 
-![bg left](assets/confused.jpeg)
-<!-- Image credit: Arthur Brognoli -->
+_"Coventry born, bred, and blitzed"_
 
 ---
+_"Did I really write that?"_
+_"...most of it"_
+
+---
+![bg](assets/tape.jpeg)
+<!-- image credit: Dmitry Demidov https://images.pexels.com/photos/6764886/pexels-photo-6764886.jpeg -->
+
+---
+![bg fit](assets/evol-guitar.jpg)
+<!-- image credit: Joshua Kerievsky https://www.industriallogic.com/blog/evolutionary-design/ -->
+
+---
+# Opening the garage door for agents
+
+---
+# Opening the garage door for ~~agents~~ everyone
 
 ---
 # Techniques you might want to try
@@ -97,7 +95,7 @@ but leave the garage door up
 
 ---
 # Links
-[GitHub: andyn-ff/adcx-gather-2025](https://github.com/andyn-ff/adcx-gather-2025)
+[GitHub: andyn-ff/adc-2026-show-your-working](https://github.com/andyn-ff/adc-2026-show-your-working)
 
 - [Robin Sloane / Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
 - [Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
