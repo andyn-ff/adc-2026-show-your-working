@@ -7,6 +7,13 @@ class:
   - lead
 style: |
   footer { font-size: 32px; }
+  header {
+    top: 24px; left: auto; right: 30px;
+    font-size: 20px; letter-spacing: 0.04em;
+    padding: 6px 16px; border-radius: 999px;
+    color: #fff; background: rgba(0,0,0,0.55);
+    border: 2px solid rgba(255,255,255,0.6);
+  }
 ---
 ![bg fit](assets/ADC_Title_Card.png)
 
@@ -41,6 +48,18 @@ Slides + links, if you want to follow along or choose your own adventure 👉
 ---
 ![bg fit](assets/bell-profile.jpg)
 <!-- Photo Moffett Studio - Library and Archives Canada / C-017335 https://commons.wikimedia.org/w/index.php?curid=1559 -->
+---
+<!-- Alexander Graham deciBel: 10% strip -->
+<style scoped>
+figure { clip-path: inset(22% 0 68% 0) !important; }
+</style>
+![bg fit](assets/bell-profile.jpg)
+<!-- _footer: Alexander Graham Decibel -->
+
+---
+<!-- header: Bell: Keep your working -->
+
+![bg fit](assets/bell-profile.jpg)
 
 ---
 ![bg fit](assets/national-geographic.png)
@@ -74,6 +93,7 @@ _"How do you do, Grandmama?"_
 <!-- _footer: — probably Confucius -->
 
 ---
+<!-- header: 3M: Share your working -->
 
 ![bg](assets/post-its.jpg)
 <!-- image credit: Connor Scott McManus https://www.pexels.com/photo/sticking-notes-on-the-wall-12797275 -->
@@ -92,11 +112,13 @@ _"How do you do, Grandmama?"_
 <!-- _footer: — Adhesions 3:16 -->
 
 ---
+<!-- header: "" -->
 # Delia Derbyshire
 
 _"Coventry born, bred, and blitzed"_
 
 ---
+<!-- header: Delia Derbyshire: Frame your working in context -->
 ![bg](assets/delia-derbyshire-bbc.webp)
 <!-- image BBC https://www.bbc.co.uk/news/articles/cd19y3gj7x2o -->
 
@@ -110,10 +132,12 @@ _"...most of it"_
 <!-- image credit: Dmitry Demidov https://images.pexels.com/photos/6764886/pexels-photo-6764886.jpeg -->
 
 ---
+<!-- header: "" -->
 ![bg fit](assets/evol-guitar.jpg)
 <!-- image credit: Joshua Kerievsky https://www.industriallogic.com/blog/evolutionary-design/ -->
 
 ---
+<!-- header: and AI? -->
 # Opening the garage door for agents
 
 - Editing AGENTS.md is dead easy
@@ -121,23 +145,30 @@ _"...most of it"_
 - Immediate payoff
 
 ---
+Don't throw your notes up in the loft
+![bg left](assets/attic.jpg)
+<!-- image credit: Jeswin Thomas https://www.pexels.com/photo/fir-tree-decor-1628417/ -->
+
+---
 # Opening the garage door for ~~agents~~ everyone
 
-- Write for yourself first
-- Make it visible to others
-- Show the agents where to find it
+- **Keep it**: Write for yourself first
+- **Share it**: Make it visible to people and agents
+- **Frame it**: Signpost where to find it _and_ what it means
 
 ---
 # 👃
-
+Look out for these smells / red flags...
+<br />
 * The first place something gets recorded is an agent file
 * AGENTS.md is longer than README.md
 * Rules say _always_ and _never_ more than _because_
 * Lots of duplication between agent files
 
-<!-- _footer: smells / red flags to look out for -->
+<!-- _footer:  -->
 
 ---
+<!-- header: "" -->
 <!-- Blank while begin conclusion -->
 
 ---
