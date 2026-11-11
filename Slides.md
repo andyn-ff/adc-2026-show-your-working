@@ -14,6 +14,15 @@ style: |
     color: #fff; background: rgba(0,0,0,0.55);
     border: 2px solid rgba(255,255,255,0.6);
   }
+  section.banners p {
+    border: 3px solid currentColor;
+    border-radius: 12px;
+    padding: 0.4em 0.8em;
+    margin: 0.4em auto;
+    width: 80%;
+    font-size: 0.8em;
+    text-align: left;
+  }
 ---
 ![bg fit](assets/ADC_Title_Card.png)
 
@@ -49,12 +58,7 @@ Slides + links, if you want to follow along or choose your own adventure 👉
 ![bg fit](assets/bell-profile.jpg)
 <!-- Photo Moffett Studio - Library and Archives Canada / C-017335 https://commons.wikimedia.org/w/index.php?curid=1559 -->
 ---
-<!-- Alexander Graham deciBel: 10% strip -->
-<style scoped>
-figure { clip-path: inset(22% 0 68% 0) !important; }
-</style>
-![bg fit](assets/bell-profile.jpg)
-<!-- _footer: Alexander Graham Decibel -->
+![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)
 
 ---
 <!-- header: Bell: Keep your working -->
@@ -68,6 +72,17 @@ figure { clip-path: inset(22% 0 68% 0) !important; }
 ---
 ![bg fit left](assets/bell-dog.webp)
 _"How do you do, Grandmama?"_
+
+---
+Developed at
+Bell Telephone Company → AT&T → Bell Labs...
+<br />
+- Transistor
+- Negative feedback amplifier
+- Electret condenser microphone
+- Nyquist/Shannon
+- FFT
+- Unix, C, C++
 
 ---
 # Ear Phonautograph
@@ -132,6 +147,22 @@ _"...most of it"_
 <!-- image credit: Dmitry Demidov https://images.pexels.com/photos/6764886/pexels-photo-6764886.jpeg -->
 
 ---
+<!-- _class: [invert, banners] -->
+⚠️ Early idea, not ready to recommend this yet, we're hoping to give it a try on project xyz
+
+<br />
+
+❌ We tried this, it didn't work out because xyz
+
+<br />
+
+⏭️ Superceded since BestSystem2 went live, go there for new projects instead
+
+---
+> He who labels not his reels shall be catalogued by strangers.
+<!-- _footer: — Mancunian proverb -->
+
+---
 <!-- header: "" -->
 ![bg fit](assets/evol-guitar.jpg)
 <!-- image credit: Joshua Kerievsky https://www.industriallogic.com/blog/evolutionary-design/ -->
@@ -160,29 +191,34 @@ Don't throw your notes up in the loft
 # 👃
 Look out for these smells / red flags...
 <br />
-* The first place something gets recorded is an agent file
-* AGENTS.md is longer than README.md
-* Rules say _always_ and _never_ more than _because_
-* Lots of duplication between agent files
-
-<!-- _footer:  -->
+- The first place something gets recorded is an agent file
+- AGENTS.md is longer than README.md
+- Rules say _always_ and _never_ more than _because_
+- Lots of duplication between agent files
 
 ---
-<!-- header: "" -->
 <!-- Blank while begin conclusion -->
+<!-- header: "" -->
+
+---
+![bg 60%](assets/adcx-video-screenshot.png)
+
+---
+<!-- Blank -->
 
 ---
 # Slides and links
 [GitHub: andyn-ff/adc-2026-show-your-working](https://github.com/andyn-ff/adc-2026-show-your-working)
+<br />
+![height:300px](assets/repo-qr.png)
 
 ---
+- [Related ADCx Gather 2025 talk notes](https://github.com/andyn-ff/adcx-gather-2025)
 - [Robin Sloane / Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
 - [Alexander Graham Bell: Prehistoric Telephone Days (National Geographic March 1922)](https://avalonlibrary.net/National_Geographic/National%20Geographic%201922-03%20041-3%20Mar.pdf)
 - Bell's Ear Phonautograph + reconstruction: [Science Museum Journal](https://journal.sciencemuseum.ac.uk/article/writing-sound/), [Ingenium Canada](https://ingeniumcanada.org/channel/articles/reconstructing-a-lost-object-can-you-identify-this-component-in-alexander-graham)
 - [3M's Post-it development](https://www.post-it.com/3M/en_US/post-it/contact-us/about-us/)
-- [Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
+- [Delia Derbyshire archive](https://deliaderbyshireday.com/dd-archive/)
 - [Clare Sudbery: Let's stop making each other feel stupid](https://insimpleterms.blog/lets-stop-making-each-other-feel-stupid)
 - [`just` command runner](https://just.systems)
 - [Tech radar talk at LeadDev 2024: Andra Blaj](https://leaddev.com/technical-direction/how-to-use-technology-radars-to-make-transparent-tech-decisions)
-- [Thoughtworks tech radar](https://www.thoughtworks.com/radar/faq)
-- [AOE's tech radar tool](https://github.com/AOEpeople/aoe_technology_radar)
