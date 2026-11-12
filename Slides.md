@@ -214,7 +214,7 @@ Look out for these smells / red flags...
 
 ---
 - [Related ADCx Gather 2025 talk notes](https://github.com/andyn-ff/adcx-gather-2025)
-- [Robin Sloane / Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
+- [Robin Sloane / Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu&stackedNotes=z4geAr5cERWdJPrdhU5gy3N)
 - [Alexander Graham Bell: Prehistoric Telephone Days (National Geographic March 1922)](https://avalonlibrary.net/National_Geographic/National%20Geographic%201922-03%20041-3%20Mar.pdf)
 - Bell's Ear Phonautograph + reconstruction: [Science Museum Journal](https://journal.sciencemuseum.ac.uk/article/writing-sound/), [Ingenium Canada](https://ingeniumcanada.org/channel/articles/reconstructing-a-lost-object-can-you-identify-this-component-in-alexander-graham)
 - [3M's Post-it development](https://www.post-it.com/3M/en_US/post-it/contact-us/about-us/)
