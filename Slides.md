@@ -24,7 +24,7 @@ style: |
     text-align: left;
   }
 ---
-![bg fit](assets/ADC_Title_Card.png)
+![bg fit Title card: audio.dev Conference, Bristol and Online 2026. Show Your Working: Useful Before it's Finished. Andy Normington](assets/ADC_Title_Card.png)
 
 ---
 # Try harder and write more docs better
@@ -34,11 +34,11 @@ and eat your greens
 # Working with the garage door up
 
 ---
-![bg](assets/garage-door.jpeg)
+![bg A bicycle repair workshop seen through an open stone doorway, a mechanic working on a bike inside while another bike leans against the wall outside](assets/garage-door.jpeg)
 <!-- image credit: Roman Biernacki https://images.pexels.com/photos/18700799/pexels-photo-18700799.jpeg -->
 
 ---
-![bg](assets/at-desk.jpeg)
+![bg A man in glasses and a teal apron carving a violin body at a cluttered workbench](assets/at-desk.jpeg)
 <!-- image credit: Andrea Piacquadio https://images.pexels.com/photos/3853200/pexels-photo-3853200.jpeg -->
 
 ---
@@ -51,26 +51,26 @@ Working with the garage door up means...
 ...and keep aiming that at people, even in the age of AI
 
 ---
-![bg right fit](assets/repo-qr.png)
+![bg right fit QR code linking to this talk's slides and links on GitHub (text link at the end of the slides)](assets/repo-qr.png)
 Slides + links, if you want to follow along or choose your own adventure 👉
 
 ---
-![bg fit](assets/bell-profile.jpg)
+![bg fit Black and white portrait of Alexander Graham Bell, white-haired and bearded, in a suit and tie](assets/bell-profile.jpg)
 <!-- Photo Moffett Studio - Library and Archives Canada / C-017335 https://commons.wikimedia.org/w/index.php?curid=1559 -->
 ---
-![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)
+![h:130 Ten small repeated copies of the portrait of Alexander Graham Bell - visual 'Alexander Graham Decibel' joke](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)![h:130](assets/bell-profile.jpg)
 
 ---
 <!-- header: Bell: Keep your working -->
 
-![bg fit](assets/bell-profile.jpg)
+![bg fit Black and white portrait of Alexander Graham Bell, white-haired and bearded, in a suit and tie](assets/bell-profile.jpg)
 
 ---
-![bg fit](assets/national-geographic.png)
+![bg fit National Geographic Magazine, March 1922: the contents page listing Prehistoric Telephone Days by Alexander Graham Bell, beside the first page of that article](assets/national-geographic.png)
 <!-- National Geographic March 1922 -->
 
 ---
-![bg fit left](assets/bell-dog.webp)
+![bg fit left Black and white photo of a shaggy terrier-type dog standing beside its owner](assets/bell-dog.webp)
 _"How do you do, Grandmama?"_
 
 ---
@@ -89,16 +89,16 @@ Bell Telephone Company → AT&T → Bell Labs...
 
 ---
 
-![bg](assets/ear-phonautograph-photo.jpg)
-![bg](assets/ear-phonautograph-reconstruction.jpg)
+![bg Black and white photo of Bell's ear phonautograph: a preserved human ear and a mouthpiece mounted on a metal stand above a sliding glass plate](assets/ear-phonautograph-photo.jpg)
+![bg A modern reconstruction of the ear phonautograph in brass, with a model ear and mouthpiece above a glass slide on a three-footed stand](assets/ear-phonautograph-reconstruction.jpg)
 <!-- https://journal.sciencemuseum.ac.uk/article/writing-sound/ -->
 
 ---
-![bg](assets/ear-phonautograph-etching.jpg)
+![bg A tracing of a wavy line made by the phonautograph on smoked glass](assets/ear-phonautograph-etching.jpg)
 <!-- https://journal.sciencemuseum.ac.uk/article/writing-sound/ -->
 
 ---
-![bg](assets/bell-demonstrating-telephone.jpg)
+![bg Brown-toned photo of Alexander Graham Bell speaking into an early telephone at a wooden desk, watched by a crowd of men in suits, all of whom have wonderful moustaches](assets/bell-demonstrating-telephone.jpg)
 <!-- Photo E. J. Holmes - National Portrait Gallery https://commons.wikimedia.org/w/index.php?curid=180916407 -->
 
 ---
@@ -110,7 +110,7 @@ Bell Telephone Company → AT&T → Bell Labs...
 ---
 <!-- header: 3M: Share your working -->
 
-![bg](assets/post-its.jpg)
+![bg A wall densely covered in colourful sticky notes, many with handwriting or doodles](assets/post-its.jpg)
 <!-- image credit: Connor Scott McManus https://www.pexels.com/photo/sticking-notes-on-the-wall-12797275 -->
 
 ---
@@ -119,7 +119,7 @@ Bell Telephone Company → AT&T → Bell Labs...
 <!-- _footer: — Dr Spencer Silver, 3M -->
 
 ---
-![bg fit](assets/art-fry-post-it.jpg)
+![bg fit Art Fry, a smiling white-bearded man peering over his glasses and pointing at his temple, with a sticky note on his forehead showing a drawn light bulb](assets/art-fry-post-it.jpg)
 <!-- image Signe Dons https://commons.wikimedia.org/w/index.php?curid=6277669 -->
 
 ---
@@ -134,7 +134,7 @@ _"Coventry born, bred, and blitzed"_
 
 ---
 <!-- header: Delia Derbyshire: Frame your working in context -->
-![bg](assets/delia-derbyshire-bbc.webp)
+![bg Black and white photo of Delia Derbyshire operating reel-to-reel tape machines in a studio](assets/delia-derbyshire-bbc.webp)
 <!-- image BBC https://www.bbc.co.uk/news/articles/cd19y3gj7x2o -->
 
 ---
@@ -143,7 +143,7 @@ _"Did I really write that?"_
 _"...most of it"_
 
 ---
-![bg](assets/tape.jpeg)
+![bg Black and white close-up of a spool of magnetic tape among loose curls of tape](assets/tape.jpeg)
 <!-- image credit: Dmitry Demidov https://images.pexels.com/photos/6764886/pexels-photo-6764886.jpeg -->
 
 ---
@@ -164,7 +164,7 @@ _"...most of it"_
 
 ---
 <!-- header: "" -->
-![bg fit](assets/evol-guitar.jpg)
+![bg fit Four illustrations showing a guitar evolving from a plank with one string, through a simple four-string instrument, to a modern acoustic guitar with a cutaway](assets/evol-guitar.jpg)
 <!-- image credit: Joshua Kerievsky https://www.industriallogic.com/blog/evolutionary-design/ -->
 
 ---
@@ -177,7 +177,7 @@ _"...most of it"_
 
 ---
 Don't throw your notes up in the loft
-![bg left](assets/attic.jpg)
+![bg left Looking up a pull-down ladder into a lit attic with exposed beams and a stored artificial Christmas tree](assets/attic.jpg)
 <!-- image credit: Jeswin Thomas https://www.pexels.com/photo/fir-tree-decor-1628417/ -->
 
 ---
@@ -201,7 +201,7 @@ Look out for these smells / red flags...
 <!-- header: "" -->
 
 ---
-![bg 60%](assets/adcx-video-screenshot.png)
+![bg 60% Screenshot of the YouTube recording of the ADCx Gather talk Working With the Garage Door Up, showing a technology radar and a webcam view of the speaker, Andy Normington](assets/adcx-video-screenshot.png)
 
 ---
 <!-- Blank -->
@@ -210,7 +210,7 @@ Look out for these smells / red flags...
 # Slides and links
 [GitHub: andyn-ff/adc-2026-show-your-working](https://github.com/andyn-ff/adc-2026-show-your-working)
 <br />
-![height:300px](assets/repo-qr.png)
+![height:300px QR code linking to this talk's slides and links on GitHub](assets/repo-qr.png)
 
 ---
 - [Related ADCx Gather 2025 talk notes](https://github.com/andyn-ff/adcx-gather-2025)
